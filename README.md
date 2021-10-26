@@ -1,7 +1,7 @@
 ## What are these codes?
 This is the implementation of the published paper 'Improving-Forecast-Reliability-for-Geographically-Distributed-Photovoltaic-Generations'.
 
-You can refer the article hrere:
+You can refer the article hrere:  
 ***D. Kodaira, K. Tsukazaki, T. Kure, J. Kondoh, "Improving Forecast Reliability for Geographically Distributed Photovoltaic Generations, " Energies 
 preprint[https://www.preprints.org/manuscript/202110.0037/v1]***
 
