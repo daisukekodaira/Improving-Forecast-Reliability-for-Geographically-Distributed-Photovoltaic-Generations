@@ -14,8 +14,8 @@ In this study, a two-step probabilistic forecast scheme is proposed for geograph
 ![image](https://user-images.githubusercontent.com/43132698/138842220-19095542-8cda-46dd-bcde-6ba9538686f0.png)  
 The proposed model is composed of two part; Singple PV foreacst model and Multiple PV foreacst model as shown above.
 Codes for the Singole PV foreacaset model is **Forecast_BasedOnSiglePVData**.  
-Codes for the Multiple PV foreacaset model is **Forecast_BasedOnSiglePVData**.
-These codes work indivudually.
+Codes for the Multiple PV foreacaset model is **Forecast_BasedOnSiglePVData**.  
+These codes work indivudually.  
 
 ## How to run
 ### 1. Singole PV foreacaset model
