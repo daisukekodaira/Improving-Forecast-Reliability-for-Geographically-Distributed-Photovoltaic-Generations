@@ -11,7 +11,7 @@ In this study, a two-step probabilistic forecast scheme is proposed for geograph
 - [Daisuke Kodaira](https://sites.google.com/view/daisukekodaira03en/home?authuser=0), Assistant Professor at Tokyo University of Science
 
 ## Structure of the code
-![image](https://user-images.githubusercontent.com/43132698/138842220-19095542-8cda-46dd-bcde-6ba9538686f0.png)
+![image](https://user-images.githubusercontent.com/43132698/138842220-19095542-8cda-46dd-bcde-6ba9538686f0.png)  
 The proposed model is composed of two part; Singple PV foreacst model and Multiple PV foreacst model as shown above.
 Codes for the Singole PV foreacaset model is **Forecast_BasedOnSiglePVData**.  
 Codes for the Multiple PV foreacaset model is **Forecast_BasedOnSiglePVData**.
