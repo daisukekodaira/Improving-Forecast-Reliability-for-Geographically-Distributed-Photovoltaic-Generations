@@ -2,8 +2,7 @@
 This is the implementation of the published paper 'Improving-Forecast-Reliability-for-Geographically-Distributed-Photovoltaic-Generations'.
 
 You can refer the article hrere:  
-***D. Kodaira, K. Tsukazaki, T. Kure, J. Kondoh, "[Improving Forecast Reliability for Geographically Distributed Photovoltaic Generations, ]" Energies 
-(https://www.preprints.org/manuscript/202110.0037/v1)***
+***D. Kodaira, K. Tsukazaki, T. Kure, J. Kondoh, "[Improving Forecast Reliability for Geographically Distributed Photovoltaic Generations, ](https://www.preprints.org/manuscript/202110.0037/v1)" Energies ***
 
 ## Abstract
 In this study, a two-step probabilistic forecast scheme is proposed for geographically distributed PV generation forecasting. Each step of the proposed scheme adopts ensemble forecasting based on three different machine-learning methods. When individual PV generation is forecasted, the proposed scheme utilizes surrounding PVs' past data to train the ensemble forecasting model. 
